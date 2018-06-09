@@ -1,0 +1,10 @@
+Domain RDRAM
+SystemID N64
+400284	d	f	1	RDRAM	X
+400288	d	f	1	RDRAM	Y
+40028C	d	f	1	RDRAM	Z
+4002D0	d	f	1	RDRAM	Velocity
+40031E	w	u	1	RDRAM	Angle
+1FA3A0	d	u	1	RDRAM	Visual Frame
+09CE75	b	u	1	RDRAM	Load Zone
+

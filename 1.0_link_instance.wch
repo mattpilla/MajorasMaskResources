@@ -1,0 +1,7 @@
+SystemID N64
+1DAA30	b	h	1	RDRAM	link_instance
+1DAE54	b	h	1	RDRAM	gi value (li + 0x424)
+1DB09C	w	b	1	RDRAM	link flags pt 1(li+0x66c)
+1DB09E	w	b	1	RDRAM	link flags pt 2(li + 0x66e, gim flag is 0x400)
+1DB258	d	f	1	RDRAM	link speed (li + 0x828)
+

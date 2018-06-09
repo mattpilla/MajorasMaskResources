@@ -1,0 +1,45 @@
+SystemID N64
+1DA671	b	u	1	RDRAM	Fadeout TImer
+1DAB70	b	u	1	RDRAM	
+1E25F8	w	u	1	RDRAM	
+1DAB70	b	u	1	RDRAM	
+3A9E3C	w	u	1	RDRAM	Analog stick angle  (last frame)
+1EFA93	b	h	1	RDRAM	
+1DB25C	w	u	1	RDRAM	movement angle
+1DB258	d	f	1	RDRAM	speed
+1DAA54	d	f	1	RDRAM	Link X
+1DAA58	d	f	1	RDRAM	Link Y
+1DAA5C	d	f	1	RDRAM	Link Z
+1DAA8C	d	f	1	RDRAM	Link x speed
+1DAA90	d	f	1	RDRAM	Link y speed
+1DAA94	d	f	1	RDRAM	Link z speed
+1DAA38	d	f	1	RDRAM	link x collision
+1DAA3C	d	f	1	RDRAM	link y collision
+1DAA40	d	f	1	RDRAM	link z collison
+11B9B2	b	u	1	RDRAM	Temp B
+3895C8	b	s	1	RDRAM	iframes
+11A5EC	b	h	1	RDRAM	"ZELDA"
+11B503	b	u	1	RDRAM	swordless falg
+0	S	_	1		
+1DA15C	b	u	1	RDRAM	room #
+11B933	b	h	1	RDRAM	Scene Setup Index
+11A5D2	w	h	1	RDRAM	Base Entrance Index
+1C86CC	d	f	1	RDRAM	Some type of couter
+11B948	w	h	1	RDRAM	
+1DA2BA	w	h	1	RDRAM	
+0FE49C	d	h	1	RDRAM	ovl_player_actor
+1DB094	d	h	1	RDRAM	state function pointer
+1DB09C	w	b	1	RDRAM	
+1DB09E	w	b	1	RDRAM	
+1CA10C	d	h	1	RDRAM	blue warp pointer
+1DB2B3	b	h	1	RDRAM	hb timer? (Freeze >5 for inf hovers)
+1D887C	b	h	1	RDRAM	textbox (something)
+1DB258	d	f	1	RDRAM	hover speed
+0	S	_	1		
+11B434	d	s	1	RDRAM	FW X
+11B438	d	s	1	RDRAM	FW Y
+11B43B	d	s	1	RDRAM	FW Z
+11B442	w	u	1	RDRAM	y rotation
+11B44A	w	h	1	RDRAM	fw entrance index
+11B44F	b	u	1	RDRAM	FW room #
+

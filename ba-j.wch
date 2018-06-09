@@ -1,0 +1,25 @@
+Domain RDRAM
+SystemID N64
+0A01B0	b	u	1	RDRAM	Timer Byte 1
+0A01B1	b	u	1	RDRAM	Timer Byte 2
+0A01B2	b	u	1	RDRAM	Timer Byte 3
+0A01B3	b	u	1	RDRAM	Timer Byte 4
+0A01B4	b	u	1	RDRAM	Timer Byte 5
+0A01B5	b	u	1	RDRAM	Timer Byte 6
+0A01B6	b	u	1	RDRAM	Timer Byte 7
+0A01B7	b	u	1	RDRAM	Timer Byte 8
+1EF462	w	u	1	RDRAM	Exit
+1EF499	b	u	1	RDRAM	Magic
+1EF4AC	b	u	1	RDRAM	Human B
+1EF4D0	b	u	1	RDRAM	Ocarina
+1EF4FF	b	u	1	RDRAM	FD
+1F35A8	b	u	1	RDRAM	BA Block1 Start
+1F36FC	b	u	1	RDRAM	Stored B Item
+1F36FC	d	u	1	RDRAM	C anywhere
+1F3712	b	u	1	RDRAM	Magic Modifier
+1F3713	b	u	1	RDRAM	Magic Length
+1F37B7	b	u	1	RDRAM	BA Block1 End
+1F3DA0	b	u	1	RDRAM	BA Block2 Start
+1F3E37	b	u	1	RDRAM	BA Block2 End
+1C18ED	b	u	1	RDRAM	Stored Song
+

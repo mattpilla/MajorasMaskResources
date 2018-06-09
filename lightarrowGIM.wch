@@ -1,0 +1,10 @@
+Domain RDRAM
+SystemID N64
+1EF6E0	b	u	1	RDRAM	Ocarina Slot
+1EF6E4	b	u	1	RDRAM	Light Arrow Slot
+3FFDD8	d	f	1	RDRAM	Y-coordinate
+400134	w	s	1	RDRAM	Get Item
+4008DA	b	u	1	RDRAM	Item over Head
+3E6E81	b	u	1	RDRAM	Fixed Cam
+40081E	b	u	1	RDRAM	GIM
+

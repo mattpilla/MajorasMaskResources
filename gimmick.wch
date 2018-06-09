@@ -1,0 +1,14 @@
+Domain RDRAM
+SystemID N64
+1EF6BC	b	u	1	RDRAM	human b
+1EF6C8	b	u	1	RDRAM	deku b
+1EF6C0	b	u	1	RDRAM	goron b
+1EF6C4	b	u	1	RDRAM	zora b
+1EF6BD	b	h	1	RDRAM	leftitem
+1EF6BE	b	h	1	RDRAM	downitem
+1EF6BF	b	h	1	RDRAM	rightitem
+1EF6AA	w	u	1	RDRAM	rupees
+3FD773	b	u	1	RDRAM	cleft
+3FD775	b	h	1	RDRAM	cdown
+3FD777	b	h	1	RDRAM	cright
+

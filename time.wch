@@ -1,0 +1,6 @@
+Domain RDRAM
+SystemID N64
+1EF67C	w	u	1	RDRAM	Game Clock
+1EF686	w	s	1	RDRAM	Rate of Time
+1EF68B	b	u	1	RDRAM	Day
+

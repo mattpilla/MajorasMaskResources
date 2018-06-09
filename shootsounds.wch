@@ -1,0 +1,5 @@
+Domain RDRAM
+SystemID N64
+4008D8	w	s	1	RDRAM	Lit Stick Timer
+1EF67C	w	u	1	RDRAM	Game Clock
+

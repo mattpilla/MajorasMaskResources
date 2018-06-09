@@ -1,0 +1,14 @@
+Domain RDRAM
+SystemID N64
+1F0600	b	u	1	RDRAM	BA Start
+1EF6E0	b	u	1	RDRAM	Ocarina
+1EF70F	b	u	1	RDRAM	FD
+09E5B0	b	u	1	RDRAM	time_1
+09E5B1	b	u	1	RDRAM	time_2
+09E5B2	b	u	1	RDRAM	time_3
+09E5B3	b	u	1	RDRAM	time_4
+09E5B4	b	u	1	RDRAM	time_5
+09E5B5	b	u	1	RDRAM	time_6
+09E5B6	b	u	1	RDRAM	time_7
+09E5B7	b	u	1	RDRAM	time_8
+

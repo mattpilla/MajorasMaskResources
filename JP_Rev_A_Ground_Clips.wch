@@ -1,0 +1,8 @@
+SystemID N64
+400284	d	f	1	RDRAM	X
+400288	d	f	1	RDRAM	Y
+40028C	d	f	1	RDRAM	Z
+400D30	d	f	1	RDRAM	Velocity
+4002C8	d	f	1	RDRAM	Y Velocity
+40031E	w	s	1	RDRAM	Angle
+

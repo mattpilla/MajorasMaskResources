@@ -1,0 +1,45 @@
+Domain RDRAM
+SystemID N64
+1F054C	d	s	1	RDRAM	Bank Rupies
+3FD4A4	d	s	1	RDRAM	Bank Rupies ?
+1EF6AA	w	s	1	RDRAM	Rupees
+1EF711	b	s	1	RDRAM	Arrows
+1EF716	b	s	1	RDRAM	Bombs
+1EF717	b	s	1	RDRAM	Bombchus
+1EF718	b	s	1	RDRAM	Deku stick
+1EF719	b	s	1	RDRAM	Deku nuts
+1EF71A	b	s	1	RDRAM	Magic beans
+1EF71C	b	s	1	RDRAM	Powder keg
+1EF6A9	b	u	1	RDRAM	Magic
+1EF6A8	b	u	1	RDRAM	Magic stuff
+1EF68B	b	u	1	RDRAM	Current Day
+1EF67C	w	u	1	RDRAM	Time
+1EF6AE	w	u	1	RDRAM	Trucs
+1F065C	b	h	1	RDRAM	Lottery Day 1 - Digit 1
+1F065F	b	h	1	RDRAM	Lottery Day 2 - Digit 1
+1F0662	b	h	1	RDRAM	Lottery Day 3 - Digit 1
+1F0665	b	h	1	RDRAM	Skulltula code digit 1
+1F066B	b	h	1	RDRAM	Bombers code digit 1
+1F0750	b	h	1	RDRAM	Picture 1st Byte
+1F06F6	w	u	1	RDRAM	Bottle 1 hot spring water timer
+1F06FE	w	u	1	RDRAM	Bottle 2 hot spring water timer
+1F0706	w	u	1	RDRAM	Bottle 3 hot spring water timer
+1F070E	w	u	1	RDRAM	Bottle 4 hot spring water timer
+1F0716	w	u	1	RDRAM	Bottle 5 hot spring water timer
+1F071E	w	u	1	RDRAM	Bottle 6 hot spring water timer
+1F067F	b	h	1	RDRAM	Some stuff with dog race
+1F067D	b	h	1	RDRAM	Pause disabler
+1F0680	b	h	1	RDRAM	Button disabler
+1F0686	w	u	1	RDRAM	Jinx Timer
+1F0688	b	h	1	RDRAM	Rock sirloin next zone
+1F068A	w	h	1	RDRAM	Rupess trading
+3FFDD4	d	f	1	RDRAM	X position
+3FFDD8	d	f	1	RDRAM	Y position
+3FFDDC	d	f	1	RDRAM	Z position
+3FFDF0	w	u	1	RDRAM	
+3FFE08	w	u	1	RDRAM	Fatness
+3FFE14	d	f	1	RDRAM	Speed 1
+3FFE1C	d	f	1	RDRAM	Speed 2
+3FFE18	d	f	1	RDRAM	Speed 3
+3FFE20	d	f	1	RDRAM	Speed 4
+

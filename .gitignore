@@ -1,0 +1,7 @@
+*.*
+!.editorconfig
+!.gitattributes
+!.gitignore
+!readme.md
+!*.lua
+!*.wch

@@ -1,0 +1,9 @@
+Domain RDRAM
+SystemID N64
+3FDC40	w	s	1	RDRAM	SoS Value
+1EF462	w	u	1	RDRAM	Exit
+3FD8CB	b	u	1	RDRAM	A Button
+3FD8DB	b	u	1	RDRAM	Return B
+3FDC04	w	u	1	RDRAM	Inventory Screen
+3FD622	w	u	1	RDRAM	Soar Behavior
+

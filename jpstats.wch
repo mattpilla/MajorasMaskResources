@@ -1,0 +1,12 @@
+Domain RDRAM
+SystemID N64
+3FFFC4	d	f	1	RDRAM	X
+3FFFC8	d	f	1	RDRAM	Y
+3FFFCC	d	f	1	RDRAM	Z
+400A70	d	f	1	RDRAM	Velocity
+40005E	w	u	1	RDRAM	Angle
+1FA0F0	d	u	1	RDRAM	Visual Frame
+1C18ED	b	u	1	RDRAM	Stored Song
+1EF496	w	s	1	RDRAM	Health
+3FF3B0	b	u	1	RDRAM	Room
+

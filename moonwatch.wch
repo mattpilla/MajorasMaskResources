@@ -1,0 +1,8 @@
+Domain RDRAM
+SystemID N64
+1EF672	w	u	1	RDRAM	Exit
+3FF39A	w	u	1	RDRAM	Exit Setter
+1F331E	w	u	1	RDRAM	Entrance Mod
+1F35BA	w	u	1	RDRAM	Entrance Mod Setter
+1F0685	b	u	1	RDRAM	Unknown BA
+

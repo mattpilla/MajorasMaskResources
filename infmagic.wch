@@ -1,0 +1,17 @@
+Domain RDRAM
+SystemID N64
+1EF4FD	b	u	1	RDRAM	Keeta
+1EF499	b	s	1	RDRAM	Magic
+1F3713	b	u	1	RDRAM	Magic Length
+0A01B0	b	u	1	RDRAM	Timer Byte 1
+0A01B1	b	u	1	RDRAM	Timer Byte 2
+0A01B2	b	u	1	RDRAM	Timer Byte 3
+0A01B3	b	u	1	RDRAM	Timer Byte 4
+0A01B4	b	u	1	RDRAM	Timer Byte 5
+0A01B5	b	u	1	RDRAM	Timer Byte 6
+0A01B6	b	u	1	RDRAM	Timer Byte 7
+0A01B7	b	u	1	RDRAM	Timer Byte 8
+1EF4AD	b	u	1	RDRAM	cleft
+1EF4E3	b	u	1	RDRAM	Bottle
+1F3718	w	u	1	RDRAM	magic to give
+

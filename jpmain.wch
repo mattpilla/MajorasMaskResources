@@ -1,0 +1,18 @@
+Domain RDRAM
+SystemID N64
+1EF462	w	u	1	RDRAM	Exit
+1EF4D0	b	u	1	RDRAM	Ocarina
+1EF4FF	b	u	1	RDRAM	FD
+1F35A8	b	u	1	RDRAM	BA Block1 Start
+1F37B7	b	u	1	RDRAM	BA Block1 End
+1F3DA0	b	u	1	RDRAM	BA Block2 Start
+1F3E37	b	u	1	RDRAM	BA Block2 End
+1F371D	b	u	1	RDRAM	cs thing?
+1F3720	b	u	1	RDRAM	boss cs thing?
+1F3723	b	u	1	RDRAM	load zone thing
+1F3750	b	u	1	RDRAM	new day thing
+1F3751	w	u	1	RDRAM	screen size?
+1EF46C	w	u	1	RDRAM	clock
+1F3721	b	u	1	RDRAM	save?
+1F36FA	w	u	1	RDRAM	scene thing?
+

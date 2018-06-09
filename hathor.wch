@@ -1,0 +1,116 @@
+Domain RDRAM
+SystemID N64
+1EF6BC	b	h	1	RDRAM	Human B
+1EF6BD	b	u	1	RDRAM	CLeft
+1EF6BE	b	u	1	RDRAM	CDown
+1EF6BF	b	u	1	RDRAM	CRight
+1EF6A6	w	s	1	RDRAM	Health
+1EF6A4	w	s	1	RDRAM	Heart Container
+1EF6B6	w	u	1	RDRAM	Owls Hit
+1EF6DD	b	u	1	RDRAM	Sword + Shield
+1F057F	b	s	1	RDRAM	Great Spin Flag
+1EF72A	b	h	1	RDRAM	Wallet (0; Base; 0x10 Adult; 0x20 Giant)
+1EF72B	b	s	1	RDRAM	Quiver / Bomb bag flag (0x1B => both 40)
+1EF72C	b	h	1	RDRAM	HP Flag (0x10 for 1 etc..)
+1EF72D	d	s	1	RDRAM	Song, Boss flag (3bytes?)
+1EF73A	b	s	1	RDRAM	Woodfall Small Keys
+1EF73B	b	s	1	RDRAM	Snowhead Small Keys
+1EF73C	b	s	1	RDRAM	Great Bay Small Keys
+1EF73D	b	s	1	RDRAM	Stone Tower Small Keys
+1EF744	b	s	1	RDRAM	Woodfall Stray Fairies
+1EF745	b	s	1	RDRAM	Snowhead Stray Fairies
+1EF746	b	s	1	RDRAM	Great Bay Stray Fairies
+1EF747	b	s	1	RDRAM	Stone Tower Stray Fairies
+1F0531	b	s	1	RDRAM	Swamp Skulltula Token
+1F0533	b	s	1	RDRAM	Oceanside Skulltula Token
+1F065C	b	h	1	RDRAM	Lottery Day 1 - Digit 1
+1F065F	b	h	1	RDRAM	Lottery Day 2 - Digit 1
+1F0662	b	h	1	RDRAM	Lottery Day 3 - Digit 1
+1F0665	b	h	1	RDRAM	Skulltula code digit 1
+1F066B	b	h	1	RDRAM	Bombers code digit 1
+1F0750	b	h	1	RDRAM	Picture 1st Byte
+1EF6E0	b	s	1	RDRAM	Slot 0 (Ocarina)
+1EF6E1	b	s	1	RDRAM	Slot 1 (Fairy Bow)
+1EF6E2	b	s	1	RDRAM	Slot 2 (Fire Arrow)
+1EF6E3	b	s	1	RDRAM	Slot 3 (Ice Arrow)
+1EF6E4	b	s	1	RDRAM	Slot 4 (Light Arrow)
+1EF6E5	b	s	1	RDRAM	Slot 5 (Quest Item 1)
+1EF6E6	b	s	1	RDRAM	Slot 6 (Bomb)
+1EF6E7	b	s	1	RDRAM	Slot 7 (Bombchu)
+1EF6E8	b	s	1	RDRAM	Slot 8 (Deku stick)
+1EF6E9	b	s	1	RDRAM	Slot 9 (Deku Nut)
+1EF6EA	b	s	1	RDRAM	Slot 10 (Magic Bean)
+1EF6EB	b	s	1	RDRAM	Slot 11(Quest Item 2)
+1EF6EC	b	s	1	RDRAM	Slot 12 (Powder Keg)
+1EF6ED	b	s	1	RDRAM	Slot 13 (Picto Box)
+1EF6EE	b	s	1	RDRAM	Slot 14 (Lens of Truth)
+1EF6EF	b	s	1	RDRAM	Slot 15 (Hookshot)
+1EF6F0	b	s	1	RDRAM	Slot 16 (Great Fairy Sword)
+1EF6F1	b	s	1	RDRAM	Slot 17 (Quest Item 3)
+1EF6F2	b	s	1	RDRAM	Slot 18 (Bottle 1)
+1EF6F3	b	s	1	RDRAM	Slot 19 (Bottle 2)
+1EF6F4	b	s	1	RDRAM	Slot 20 (Bottle 3)
+1EF6F5	b	s	1	RDRAM	Slot 21 (Bottle 4)
+1EF6F6	b	s	1	RDRAM	Slot 22 (Bottle 5)
+1EF6F7	b	s	1	RDRAM	Slot 23 (Bottle 6)
+1EF6F8	b	s	1	RDRAM	Mask 1 (Postman Hat)
+1EF6F9	b	s	1	RDRAM	Mask 2 (All Night Mask)
+1EF6FA	b	s	1	RDRAM	Mask 3 (Blast Mask)
+1EF6FB	b	s	1	RDRAM	Mask 4 (Stone Mask)
+1EF6FC	b	s	1	RDRAM	Mask 5 (Great Fairy's Mask)
+1EF6FD	b	s	1	RDRAM	Mask 6 (Deku Mask)
+1EF6FE	b	s	1	RDRAM	Mask 7 (Keaton Mask)
+1EF6FF	b	s	1	RDRAM	Mask 8 (Bremen Mask)
+1EF700	b	s	1	RDRAM	Mask 9 (Bunny Hood)
+1EF701	b	s	1	RDRAM	Mask 10 (Don Gero's Mask)
+1EF702	b	s	1	RDRAM	Mask 11 (Mask of Scents)
+1EF703	b	s	1	RDRAM	Mask 12 (Goron Mask)
+1EF704	b	s	1	RDRAM	Mask 13 (Romani's Mask)
+1EF705	b	s	1	RDRAM	Mask 14 (Circus Leader's Mask)
+1EF706	b	s	1	RDRAM	Mask 15 (Kafei's Mask)
+1EF707	b	s	1	RDRAM	Mask 16 (Couple's Mask)
+1EF708	b	s	1	RDRAM	Mask 17 (Mask of Truth)
+1EF709	b	s	1	RDRAM	Mask 18 (Zora Mask)
+1EF70A	b	s	1	RDRAM	Mask 19 (Kamaro's Mask)
+1EF70B	b	s	1	RDRAM	Mask 20 (Gibdo Mask)
+1EF70C	b	s	1	RDRAM	Mask 21 (Garo's Mask)
+1EF70D	b	s	1	RDRAM	Mask 22 (Captain's Hat)
+1EF70E	b	s	1	RDRAM	Mask 23 (Giant Mask)
+1EF70F	b	s	1	RDRAM	Mask 24 (Fierce Deity's Mask)
+1F054E	w	u	1	RDRAM	Bank Rupies
+1EF6AA	w	s	1	RDRAM	Rupees
+1EF711	b	s	1	RDRAM	Arrows
+1EF716	b	s	1	RDRAM	Bombs
+1EF717	b	s	1	RDRAM	Bombchus
+1EF718	b	s	1	RDRAM	Deku stick
+1EF719	b	s	1	RDRAM	Deku nuts
+1EF71A	b	s	1	RDRAM	Magic beans
+1EF71C	b	s	1	RDRAM	Powder keg
+1EF6A9	b	u	1	RDRAM	Magic Meter
+1EF6A8	b	u	1	RDRAM	Magic stuff
+1F0686	w	u	1	RDRAM	Jinx Timer
+1F0688	w	s	1	RDRAM	Give Rupess
+1EF68B	b	u	1	RDRAM	Current Day
+1EF67C	w	u	1	RDRAM	Time
+1EF686	w	s	1	RDRAM	Time speed
+1EF6AE	w	u	1	RDRAM	Trucs
+1F06F6	w	u	1	RDRAM	Bottle 1 hot spring water timer
+1F06FE	w	u	1	RDRAM	Bottle 2 hot spring water timer
+1F0706	w	u	1	RDRAM	Bottle 3 hot spring water timer
+1F070E	w	u	1	RDRAM	Bottle 4 hot spring water timer
+1F0716	w	u	1	RDRAM	Bottle 5 hot spring water timer
+1F071E	w	u	1	RDRAM	Bottle 6 hot spring water timer
+1F067F	b	h	1	RDRAM	Some stuff with dog race
+1F067D	b	h	1	RDRAM	Pause disabler
+1F0680	b	h	1	RDRAM	Button disabler
+1EF690	b	h	1	RDRAM	Current Mask Form
+1F0684	b	s	1	RDRAM	Rock sirloin next zone
+3FFDD4	d	f	1	RDRAM	X position
+3FFDD8	d	f	1	RDRAM	Y position
+3FFDDC	d	f	1	RDRAM	Z position
+3FFE14	d	f	1	RDRAM	Speed 1
+3FFE1C	d	f	1	RDRAM	Speed 2
+3FFE18	d	f	1	RDRAM	Speed 3
+3FFE20	d	f	1	RDRAM	Speed 4
+40088B	b	s	1	RDRAM	ISG
+

@@ -1,0 +1,13 @@
+Domain RDRAM
+SystemID N64
+400880	d	f	1	RDRAM	Linear Velocity
+3FFE6E	w	u	1	RDRAM	Angle
+1F9F80	d	u	1	RDRAM	Visual Frame
+1EF693	b	u	1	RDRAM	Mayor's Warp
+1C6A7D	b	u	1	RDRAM	Stored Song
+1EF68B	b	u	1	RDRAM	Day
+1F3595	b	u	1	RDRAM	buffer
+4008D8	w	u	1	RDRAM	lit stick
+421137	b	u	1	RDRAM	majora
+464117	b	u	0	RDRAM	incarnation
+

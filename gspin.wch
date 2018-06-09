@@ -1,0 +1,11 @@
+Domain RDRAM
+SystemID N64
+3FFDD4	d	f	1	RDRAM	X-coordinate
+3FFDD8	d	f	1	RDRAM	Y-coordinate
+3FFDDC	d	f	1	RDRAM	Z-coordinate
+400880	d	f	1	RDRAM	Linear Velocity
+3FFE6E	w	u	1	RDRAM	Angle
+1F9F80	d	u	1	RDRAM	Visual Frame
+1EF744	b	u	1	RDRAM	Fairies
+1EF73B	b	u	1	RDRAM	keys
+
